@@ -6,6 +6,7 @@ https://medium.muz.li/12-beautiful-mobile-app-ui-animations-inspiration-97db3c02
 
 
 Here are some ideas to get you started:
+![image](https://github.com/user-attachments/assets/657a1bb5-4cd0-4c3a-922a-0a79ad871b13)
 
 - 🔭 I’m currently Flutter on ...
 - 🌱 I’m currently learning ...
@@ -17,12 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend 12 hours daily in front of my laptop...
 -->
 
-
-![image](https://github.com/user-attachments/assets/657a1bb5-4cd0-4c3a-922a-0a79ad871b13)
- I'm working as a Flutter developer, building cross-platform mobile applications                                                  
+ ![github1](https://github.com/user-attachments/assets/cfea9fbd-35c6-4425-9f8d-ab968d210fc4)
 
 
-                                                   
+
+
+
+
+                   
+                                
 
 
  
