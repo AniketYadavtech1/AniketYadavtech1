@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![image](https://github.com/user-attachments/assets/657a1bb5-4cd0-4c3a-922a-0a79ad871b13)
+ I'm working as a Flutter developer, building cross-platform mobile applications.
+ 
+
