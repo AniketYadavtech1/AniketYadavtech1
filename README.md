@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I spend 12 hours daily in front of my laptop...
 -->
+![image](https://github.com/user-attachments/assets/657a1bb5-4cd0-4c3a-922a-0a79ad871b13)
 
  ![github1](https://github.com/user-attachments/assets/cfea9fbd-35c6-4425-9f8d-ab968d210fc4)
 
